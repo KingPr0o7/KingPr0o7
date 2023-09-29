@@ -7,5 +7,5 @@ I'm a student at IVY Tech studying Software Development, working towards obtaini
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kingpr0o7&theme=github_dark" />
 </a>
 <a href="https://github.com/kingpr0o7/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingpr0o7&theme=github_dark&layout=compact&langs_count=8&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingpr0o7&theme=github_dark&layout=compact&langs_count=8&card_width=245" />
 </a>
